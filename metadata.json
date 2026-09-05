@@ -1,0 +1,6 @@
+{
+  "name": "BIS Sahayak AI",
+  "description": "AI-powered Intelligent Assistant for Indian Standards and BIS Services for Industries and Consumers (Smart India Hackathon 2026 - Problem Statement 26107)",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
